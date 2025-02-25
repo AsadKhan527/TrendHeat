@@ -1,4 +1,4 @@
-# Transaction HeatMap
+# TrendHeat
 
 Transaction Map is a data visualization tool that provides an intuitive heatmap representation of daily transaction data. By grouping transactions by date and analyzing net balances, users can easily identify trends, outliers, and patterns in their financial activity.
 
